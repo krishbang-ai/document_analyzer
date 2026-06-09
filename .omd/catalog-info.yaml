@@ -1,0 +1,17 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: global-product-lab-sandbox
+  title: global-product-lab-sandbox
+  description: >-
+    GP&Ds home for product prototypes, Claude skills, and shared context/data.
+    Central monorepo for Global Product & Design (GP&D) prototypes, experiments,
+    and AI tooling — individual project builds, reusable Claude skills, shared
+    context, and supporting data/assets.
+  annotations:
+    wbd.com/omd-schema-version: v1.2.1
+    wbd.com/schema-version: v1.2.1
+    github.com/project-slug: wbd-streaming/global-product-lab-sandbox
+spec:
+  owner: access-all
+  domain: product-and-design

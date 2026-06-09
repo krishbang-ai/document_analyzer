@@ -1,0 +1,11 @@
+omd_business_service:
+  name: product-and-design
+
+omd_service:
+  name: global-product-lab-sandbox
+  description: GP&Ds home for product prototypes, Claude skills, and shared context/data. Central monorepo for Global Product & Design (GP&D) prototypes, experiments, and AI tooling — individual project builds, reusable Claude skills, shared context, and supporting data/assets.
+
+schema_version: v1.2.1
+
+# Used for tracking the repository in WBD inventory. Do not remove or alter the content.
+inventory_id: 980162270ee0cf69c2e3a0a0a87dd93d-e8e885e0931c2c609d3059f840c02b70
